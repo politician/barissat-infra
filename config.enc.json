@@ -1,0 +1,73 @@
+{
+	"primary_domain": "ENC[AES256_GCM,data:/6eDwZQK+PH/3o/B,iv:errgYxWZiBhL9vV+OT1uCjt24EaEfNPhhiXe4E0YYxI=,tag:S0IVnFxHw24NXuGVbDBNNA==,type:str]",
+	"forwarded_domains": [
+		"ENC[AES256_GCM,data:ArrVcF3Vrxe4TDI=,iv:Qd+BbjlZI7zlPABoal5OvZbgQ6LANgJedpC4Q4KC+oQ=,tag:kOVqBaqutpNtZuu0/eFTiA==,type:str]",
+		"ENC[AES256_GCM,data:aEUsKDSR6JkN,iv:NIHXgAje9xuLs5GOTmdMSLxw3L3l4RI2Xn+hjJaCefo=,tag:BR5f3adEzyx0OGHkxS20Tg==,type:str]"
+	],
+	"members": [
+		{
+			"first_name": "ENC[AES256_GCM,data:x9yoG4sZjiO+,iv:J4jHft65Ck2q8jwFcW4xhSa0puX+lMZM37EzdecRZjQ=,tag:JI1TPGwQQKUp/9Yuyv6xfw==,type:str]",
+			"recovery_email": "ENC[AES256_GCM,data:y1uaw0cTONFFXM3TSfccHVISzAU=,iv:m1zj2AiChE1V+iZ055taZb14NWQP/JNQDPSvK6ALn6Y=,tag:UXz1nvRFsWzrK8GDp3TM2Q==,type:str]",
+			"aliases": [
+				"ENC[AES256_GCM,data:+S3y,iv:5yN4PFnByucpVL9kcRh9Q95iEC70ZbX2NX3ytofnmUk=,tag:qv0Zo0iaS8uXPTWWHdJeSA==,type:str]"
+			]
+		},
+		{
+			"first_name": "ENC[AES256_GCM,data:YiAbNYh2h6Z3IA==,iv:dkGjcVFAwsDgi/Fw5eDZSS3vLCSBC4nePxcCvLN88Vk=,tag:C3mHP67nCUcHz+1epDHyFg==,type:str]",
+			"last_name": "ENC[AES256_GCM,data:PccCzw==,iv:btJdWXL8l29QLZDIViP66P3Hk03hEfU5v9wzSbuT/L0=,tag:zLnD/fkctsZ1yWEhqWdeDQ==,type:str]",
+			"recovery_email": "ENC[AES256_GCM,data:pbDsKZQjc70Vm1Iktb0vPBiC,iv:HH2gCDg1acG09jrnJ0lEoOtD2EEuPEcRrgRa24bO9L8=,tag:0BqJOjO4PKK8ZoRlDU6rWA==,type:str]"
+		},
+		{
+			"first_name": "ENC[AES256_GCM,data:kH3qSw==,iv:L37LkgqTx7BJDFV3gPtT9Usp1tK4TU9ocDintzcXS4M=,tag:PCJT5tZSMDfLDMrhs7j6Ig==,type:str]"
+		},
+		{
+			"first_name": "ENC[AES256_GCM,data:gOeHcJSe+Jg6,iv:3nAs2z67tMD0VI4RsysUjeqLBuFRIx8V7VLdWmUMQuM=,tag:IRUKxZHp+O1gh5DQEK4sAA==,type:str]"
+		},
+		{
+			"first_name": "ENC[AES256_GCM,data:ULI0dg==,iv:CnRhNZ8rxGW71l2CJE9OkIYe8AykFVGqfl1LbxB2cCs=,tag:EHwDhUNxom2LMVx5HPNB+A==,type:str]"
+		},
+		{
+			"first_name": "ENC[AES256_GCM,data:Zm8k5+M67w==,iv:Qau6FRYvypFrPdmqYUjrGlneUAKVz+dekt980yf+slw=,tag:BAUhErzijTMey3a93ZQocw==,type:str]"
+		},
+		{
+			"first_name": "ENC[AES256_GCM,data:oJIY6DJN,iv:k5WwTfzqY/J/M8RPoevzne8T2bxUU2T5xEs4TwQMjDA=,tag:NtEMPhUgh5PAEK5JzhuaXw==,type:str]",
+			"recovery_email": "ENC[AES256_GCM,data:2OYyXp1DRgyyiu8RfGfnwlW2,iv:UT55t+ps3P5gmSJpOIbV8zziYrCMxVSquhH6C+nsouI=,tag:haiHI8M5FVFgtxFdlV1YIA==,type:str]",
+			"aliases": [
+				"ENC[AES256_GCM,data:6g==,iv:6OjB6K+kq40Cn4m/qKWKqqSgmBfRu/w0wg0/YAK1im0=,tag:E2Fbx/gEvooxYv8VIQ62SQ==,type:str]"
+			]
+		},
+		{
+			"first_name": "ENC[AES256_GCM,data:N1zP31AfzA==,iv:p+egMi9yPzYMsVeFaBm/Xw3asD0onAhCUHNVnE4kbdQ=,tag:XfpFkNMTYUD9LLi89DXkyg==,type:str]",
+			"recovery_email": "ENC[AES256_GCM,data:iiYjB2i8mD3EnT1rfN3E8Ck=,iv:O46i1q3yyOltCgHARgLpw8ByeJHt5fOIDEg9HzQvboE=,tag:AI6Z0msDc8aXfXy0iOtEuA==,type:str]"
+		},
+		{
+			"first_name": "ENC[AES256_GCM,data:HJ9Ca8LhWw==,iv:oi1WM/NSB1nUMeIKI++nC4kbRLVsGajzh2Yba24kSZA=,tag:Yt2OP2NUXYb24dEC52H6lQ==,type:str]",
+			"recovery_email": "ENC[AES256_GCM,data:Cd0JIWLxwVfPlBUDOvGqWAlYeMc=,iv:XQdxQJa+n8nLumrkjG+sMe/KhH5eYSrpo1/yxZHyFxE=,tag:LjiunJBCr/aa0jYPs7vwgA==,type:str]"
+		},
+		{
+			"first_name": "ENC[AES256_GCM,data:Gpq/hWPCCY0=,iv:O2udmke3k4Wro+XhZqz07NpeZBCd8qXggJkW9zol4dQ=,tag:/wMbGHw8l7zuuW7hX1ViBg==,type:str]",
+			"recovery_email": "ENC[AES256_GCM,data:9Xewgq6P2KoXPPBbWly+VWKy2eU=,iv:uspHRhA2zIEqBm5x+l4ibzNemG/rQd765qmlXxP8lys=,tag:1ys+axvwz2PqyE/vvtjHJA==,type:str]"
+		},
+		{
+			"first_name": "ENC[AES256_GCM,data:ppUmIg==,iv:b+bPBIKEJoIfFqdLFOXPO1RAO54TcHk7raz4n8Jdhzc=,tag:dhLiT9wqCn8tfUh+WhLSiQ==,type:str]"
+		}
+	],
+	"sops": {
+		"kms": null,
+		"gcp_kms": [
+			{
+				"resource_id": "projects/romain-infra-762042/locations/global/keyRings/romain/cryptoKeys/barissat-infra-8253",
+				"created_at": "2022-05-25T15:36:10Z",
+				"enc": "CiQAdKm3Gw+d2Wx8PW7gKdyu2ONttVf6WLw5R+oHq/3XB2afrxYSSQCt5v+Yek16i9Os8WW0EP2RQo/M4BTQ+LuSZOo4i5Vcmr2RN6b3vrTrdtRrzq9KGbVi1wNR7u1xkIuvctx2M3Gu8XDYWKXRBbw="
+			}
+		],
+		"azure_kv": null,
+		"hc_vault": null,
+		"age": null,
+		"lastmodified": "2022-05-25T15:36:11Z",
+		"mac": "ENC[AES256_GCM,data:S3JjDvrnV2U3znLrueCIwg4Q+TLQfRlHCbjBxP8KfuIzpSk200hIIav9X5LZ1kVVwRqMYwwHM7nfU/h5vzSDVUzqkLDx6PrEwv9bTF2QrMC2NasT7NXJJpqaTXELDekd0FLF1vuSmyZp4ej9IAc86Yz4JIP9qiqIaQ4Y5MiQGZs=,iv:gGB4F48XnoShMzXZNfw+Q9wcifNmaM8f9C+Ix2JdCig=,tag:DsCQ2HGeHzHZieqf3ywlLw==,type:str]",
+		"pgp": null,
+		"unencrypted_suffix": "_unencrypted",
+		"version": "3.7.3"
+	}
+}

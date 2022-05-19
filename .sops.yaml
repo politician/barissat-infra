@@ -1,0 +1,2 @@
+creation_rules:
+  - gcp_kms: projects/romain-infra-762042/locations/global/keyRings/romain/cryptoKeys/barissat-infra-8253
