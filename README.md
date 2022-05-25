@@ -22,11 +22,48 @@ Forwarded e-mails are hosted on [Forwardemail.net](https://forwardemail.net) and
 
 Some family members have one or more aliases. In that case, all the above are valid for both their first name and their aliases.
 
-## Contributing
+## Contribute
 
-### Google workspace
+### Manage family members and domains
 
-#### Configuration
+The list of family members and their details is encrypted using [SOPS](https://github.com/mozilla/sops) with a key stored in [Google KMS](https://cloud.google.com/security-key-management).
+
+> SOPS configuration lies in [.sops.yaml](.sops.yaml)
+
+Before you can edit the list, ensure your workstation is configured with credentials that have access to that key and then run:
+
+```sh
+sops config.enc.json
+```
+
+Or to edit it in VSCode:
+
+```sh
+EDITOR="code --wait" sops config.enc.json
+```
+
+## Forking
+
+If you want to fork this repo and modify it for your own personal/commercial usage, please do so freely, it is licensed accordingly (Apache 2.0).
+
+Example configuration:
+
+```json
+{
+  "primary_domain": "lastname.com",
+  "forwarded_domains": ["lastname.net", "last.name"],
+  "members": [
+    {
+      "first_name": "John",
+      "last_name": "Last Name",
+      "recovery_email": "john@gmail.com",
+      "aliases": ["jo"]
+    }
+  ]
+}
+```
+
+### Credentials configuration
 
 It is recommended to configure the [Google workspace provider](https://registry.terraform.io/providers/hashicorp/googleworkspace/latest/docs) with a service account ([guide](https://developers.google.com/admin-sdk/directory/v1/guides/delegation#create_the_service_account_and_credentials)).
 
